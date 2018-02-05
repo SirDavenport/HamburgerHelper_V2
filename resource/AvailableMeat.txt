@@ -1,0 +1,4 @@
+Buffalo Meat,50,8.00
+Cow Meat,150,6.50
+Turkey Meat,100,7.00
+Veggie Meat,40,5.50

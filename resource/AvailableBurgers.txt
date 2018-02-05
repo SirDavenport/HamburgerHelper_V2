@@ -1,0 +1,5 @@
+Plain Hamburger,Cow Meat,No Cheese,Regular Roll,null,null,7.99,A plain hamburger.
+Spicy Buffalo Burger,Buffalo Meat,Pepper Jack,Kaiser Roll,null,Hot Sauce:Ranch,11.99,Kick it up a notch with this burger.
+American Cheese Burger,Cow Meat,American,Regular Roll,Pickle,Ketchup,9.99,A good ol' fashioned cheese burger.
+Cowabunga Burger,Cow Meat,Mozzarella,Regular Roll,null,Marinara,11.99,It is pizza time.
+Veggie Deluxe Burger,Veggie Meat,Provolone,Wheat Roll,Lettuce,Ranch,10.99,A garden variety.

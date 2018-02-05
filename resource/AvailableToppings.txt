@@ -1,0 +1,5 @@
+Bacon,100,.50
+Lettuce,100,.15
+Onions,100,.15
+Pickle,100,.20
+Tomatoes,100,.20

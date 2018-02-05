@@ -1,0 +1,6 @@
+American,250,1.0
+Cheddar,100,1.15
+Mozzarella,80,1.20
+Pepper Jack,100,1.15
+Provolone,120,1.00
+No Cheese,1,0.00
