@@ -3,7 +3,7 @@ A new and improved hamburger helper.
 Food is the parent class. 
 Hamburger is a different parent class.
 
-Each package has two classes. One is what controls the list of the kind of food, and one is the parent of the kind of food.
+The GUI package obviously has the GUI parts. Each Food package has two classes. One is what controls the list of the kind of food, and one is the parent of the kind of food.
     -Topping
     -Condiment
     -MeatType
