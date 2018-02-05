@@ -1,5 +1,5 @@
 # HamburgerHelper_V2
-A new and improved hamburger helper
+A new and improved hamburger helper.
 Food is the parent class. 
 Hamburger is a different parent class.
 
